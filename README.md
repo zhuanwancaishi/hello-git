@@ -1,2 +1,8 @@
-# hello-git
-my name is peter and you are my hhhhhh
+#include<stdio.h>
+int main()
+{
+    printf("hello world !!");
+    printf("--------------");
+    return 0;
+
+}
